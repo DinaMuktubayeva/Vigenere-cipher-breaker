@@ -1,4 +1,4 @@
-# vigenere-cipher-breaker
+# Vigenere Cipher Breaker
 This program is an OOP implementation of the Vigenere cipher and Vigenere breaker using letter frequency analysis
 
 ### This project includes:
