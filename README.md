@@ -35,7 +35,7 @@ This requires maximum 25 iterations over possible keys for English text, since t
 
 - Letter frequency analysis
 
-This technique has been described in Edgar Allan Poe's "The Gold-Bug".
+This technique was used by the main character of Edgar Allan Poe's "The Gold-Bug".
 
 It is based on the fact that in most languages, there is one letter that occurs significantly more often than others. In English, this is 'e'.
 Caesar doesn't change values of frequency: it only changes the letter itself. In other words, it is likely that 'e' is hiding under the most common letter in an encrypted message, which leads to the key.
