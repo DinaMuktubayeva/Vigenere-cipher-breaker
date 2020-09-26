@@ -1,0 +1,3 @@
+The Vigenère cipher gained a reputation for being exceptionally strong. Noted author and mathematician Charles Lutwidge Dodgson (Lewis Carroll) called the Vigenère cipher unbreakable in his 1868 piece "The Alphabet Cipher" in a children's magazine. In 1917, Scientific American described the Vigenère cipher as "impossible of translation".[10][11] That reputation was not deserved. Charles Babbage is known to have broken a variant of the cipher as early as 1854 but did not publish his work.[12] Kasiski entirely broke the cipher and published the technique in the 19th century, but even in the 16th century, some skilled cryptanalysts could occasionally break the cipher.[9]
+
+- from Wikipedia
